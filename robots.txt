@@ -4,3 +4,4 @@ Disallow: /files/file/
 Disallow: /images/
 Disallow: /README.md
 Disallow: /favicon.ico
+Disallow: /favicon/
