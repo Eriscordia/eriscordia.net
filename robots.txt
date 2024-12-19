@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /css/
+Disallow: /styles/
 Disallow: /files/file/
 Disallow: /images/
 Disallow: /README.md
